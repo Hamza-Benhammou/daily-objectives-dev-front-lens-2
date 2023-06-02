@@ -14,5 +14,5 @@
 - [x] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
   - [x] `||` (OR)
   - [x] `&&` (AND)
-  - [] `!` (NOT)
-  - [] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
+  - [x] `!` (NOT)
+  - [x] `??` (Coalescence des nulles)[https://fr.javascript.info/nullish-coalescing-operator]
